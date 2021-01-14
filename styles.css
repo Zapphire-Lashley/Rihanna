@@ -1,0 +1,11 @@
+.pictures {
+    padding: 7px;
+    border: 6px dashed purple;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 20px;
+}
+.style{ 
+    border: 5px solid blue;
+}
